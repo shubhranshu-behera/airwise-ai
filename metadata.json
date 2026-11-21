@@ -1,0 +1,6 @@
+{
+  "name": "AIRWISE AI",
+  "description": "Agentic GenAI-Powered Urban Air Quality & Smart City Environmental Intelligence Platform — Intelligent Air. Healthier Living.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
